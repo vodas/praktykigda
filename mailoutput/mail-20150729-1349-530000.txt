@@ -1,0 +1,10 @@
+To: amjadiqbalkhanniazi@gmail.com
+Subject: This is the test mail,please ignore
+Message-ID: <603ceda22716550b9d5dd28b2930ebb1@swift.generated>
+Date: Wed, 29 Jul 2015 15:49:48 +0200
+From: Amjad Iqbal Khan <amjadiqbalkhanniazi@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+This is the body of the mail
